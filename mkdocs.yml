@@ -26,6 +26,8 @@ nav:
     - Histoire de l’informatique : histoire.md
     - France-IOI :
       - Cours et problèmes : FranceIOI.md
+    - Projets :
+      - nsisium : nsisium.md
     - Ressources : ressources.md
 
 # Définition du thème https://squidfunk.github.io/mkdocs-material/creating-your-site/
@@ -35,18 +37,18 @@ theme:
     font: false  # RGPD ; pas de fonte Google
     language: fr # français
     logo: images/LogoIO.png 
-    favicon: images/LogoIO-orange.png
+    favicon: images/LogoIO-deep_purple.png
 
     palette: # Palettes de couleurs jour/nuit, cf : https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
       - scheme: default # nom du thème clair
-        primary: deep orange # couleur primaire des titres, des liens, ..., à prendre dans la liste
-        accent: deep purple # couleur d'accentuation au survol des boutons, desliens, ..., à prendre dans la liste
+        primary: deep purple # couleur primaire des titres, des liens, ..., à prendre dans la liste
+        accent: deep orange # couleur d'accentuation au survol des boutons, desliens, ..., à prendre dans la liste
         toggle: # définition du bouton pour switcher de palette
           icon: material/weather-sunny # apparence
           name: Basculer en mode sombre # message
       - scheme: slate # nom du thème sombre
-        primary: deep purple
-        accent: deep orange
+        primary: deep orange
+        accent: deep purple
         toggle:
           icon: material/weather-night
           name: Basculer en mode clair
