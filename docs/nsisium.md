@@ -29,3 +29,30 @@ Le robot utilisera également un capteur ultrason. Ce dernier permettra de mesur
 Pour le positionnement, plusieurs capteurs pourront être utilisés dont le capteur gyroscopique et le capteur tachymétrique intégré aux moteurs.
 
 Plus d’informations ici : [https://pybricks.github.io/ev3-micropython/](https://pybricks.github.io/ev3-micropython/)
+
+
+## Démarche :
+
+Vous travaillerez en mode agile par équipes de 3 élèves (1 SI et 2 NSI) + 1 professeur qui jouera le role de [Product Owner](https://www.orientation.com/metiers/product-owner).
+
+Les équipes seront donc misent en concurrences pour ce projet.
+
+Dans chaque équipe vous désignerez un volontaires pour être [Scrum Master](https://www.clementine.jobs/fiches-metiers/metiers-techniques-du-web/scrum-master/#:~:text=Le%20Scrum%20Master%20est%20avant,en%20suivant%20la%20m%C3%A9thode%20Scrum.).
+
+Tout le monde participe activement au développement du code y compris le [Product Owner](https://www.orientation.com/metiers/product-owner) en cas de besoin (mais pas trop parce qu'il n'a pas que ça à faire !;) ).
+
+Ce projet sera donc aussi l'occasion de découvrir et d'expérimenter les rudiments d'une méthode agile que présente les vidéos suivantes...
+
+<center>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VpdFpZ_w5x8?start=30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+<center>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-HV_MW5KgVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+<center>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WNYcSxbJvsc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+Le développement du projet va donc se décomposer en plusieurs sprints...
