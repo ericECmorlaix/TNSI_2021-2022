@@ -64,10 +64,10 @@ theme:
 
 markdown_extensions: # https://squidfunk.github.io/mkdocs-material/reference/abbreviations/
     # extensions de la bibliothèque markdown standard
-    - abbr # infobulles sur abbréviations 
+    - abbr # infobulles sur abbréviations https://python-markdown.github.io/extensions/abbreviations/
     - meta # Métadonnées
     - def_list                      # Les listes de définition.
-    - attr_list                     # Un peu de CSS et des attributs HTML.
+    - attr_list                     # Permet d'ajouter un peu de CSS et des attributs HTML.
     - footnotes                     # Notes[^1] de bas de page.  [^1]: ma note.
     - admonition                    # Blocs colorés  !!! info "ma remarque"
     - toc: # Table des matières

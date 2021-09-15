@@ -1,5 +1,7 @@
 # Cahier de texte TNSI_2021-2022
 
+## Les 15 et 16/09 :
+- Poursuite sur [​France IOI​](http://www.france-ioi.org/){:target="_blank"} des révisions de programmation en Python à partir des​​ activités de la rubrique [Cours et Problèmes](http://www.france-ioi.org/algo/chapters.php){:target="_blank"} -> Présentation à l'oral du notebook personnel... 
 
 ## Les 10 et 14/09 :
 - mini-projet [nsisium](./nsisium) : fin du sprint d'initialisation, début du sprint 1 ;
