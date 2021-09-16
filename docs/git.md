@@ -35,47 +35,100 @@ Voilà, vous faites maintenant parti d'un autre réseau social mondial celui des
 
 > Remarquer que le fichier `Readme` à pour extension `.md` pour **Mardown** si vous ne connaissez pas ce langage de description rudimentaire rendez-vous sur le bloc-note [Markdown](./MarkDown-Le_BN_pour_rapporter).
 
-Il est possible de gérer un compte GitHub via son interface graphique depuis un navigateur ou sur un ordinateur personnel ou une tablette en y installant l'application GitHub Desktop adaptée.
+Il est possible de gérer un compte GitHub via son interface graphique depuis un navigateur sur un ordinateur personnel comme sur une tablette ou y installant l'application GitHub Desktop adaptée.
 Pour vous initier plus complètement dans ce sens https://guides.github.com/activities/hello-world/.
 
-La suite présente le recours *"aux supers pouvoirs"* de **la ligne de commande** et à l'interface graphique de Visual Studio Code...
-
-Pour la gestion en ligne de commande, depuis le 13 août 2021, l'identification par simple mot de passe n'est plus autorisé, il vous faudra définir une [clef personnelle d'identification](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token).
+La suite présente le recours à l'interface graphique de Visual Studio Code et *"aux supers pouvoirs"* de **la ligne de commande**...
 
 ## Visual Studio Code :
 
-Voir : [https://ericecmorlaix.github.io/mkdocs_tutor/Windows10/](https://ericecmorlaix.github.io/mkdocs_tutor/Windows10/)
+- Télécharger et installer la dernière version de [Visual Studio Code](https://code.visualstudio.com/download) ;
+
+- Dans Visual Studio Code (VSC), cliquer sur le bouton "Contrôle de code source" (1) (`Source Control` ++"Ctrl"+"Maj"+"G"++) ;
+
+![VisualStudioCode.png](images/VisualStudioCodeGit00.png)
+
+- Cliquer sur le bouton "Cloner le dépôt" (2), saisir l'URL du dépôt (3) puis valider (4) ;
+- Choisir alors un dossier parent pour recevoir un clone local de votre dépôt distant ;
+- apporter des modifications à vos fichiers en utilisant l'éditeur de VSC... ;
+- Dans "Changement" (`Changes`) cliquer sur le `+` pour ajouter les fichiers modifiés à indexer dans cette phase (stage) de développement ;
+- Ajouter un message sous "CONTROLE DE CODE SOURCE" (`SOURCE CONTROL`) pour définir cette phase de développement puis cliquer sur `✓` pour valider ce commit ;
+- Enfin, cliquer sur les `...` et choisir `Push` ;
+
+Votre dépôt sur GitHub devrait se mettre à jour avec vos modifications après quelques temps...
+
+Voir aussi : [https://ericecmorlaix.github.io/mkdocs_tutor/Windows10/](https://ericecmorlaix.github.io/mkdocs_tutor/Windows10/)
 
 ## En ligne de commande :
 
+Pour la gestion en ligne de commande, depuis le 13 août 2021, l'identification par simple mot de passe n'est plus supportée, il vous faudra définir une [clef personnelle d'identification](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token).
+
 ### Cloner un dépôt :
 
-Sans préciser d'identification :
+Sans préciser de nom de dossier ni d'identification :
 ```bash
 $ git clone https://github.com/username/repo.git
 ```
 
-Avec identification :
+Avec nom de dossier et identification :
 ```bash
-$ git clone https://github.com/username/repo.git
+$ git clone https://github.com/username/repo.git nom_du_dossier_clone
 Username: your_username
 Password: your_token
 ```
-Quelques commande de base :
+
+> Si on ne précise pas le nom du dossier à la fin de l'instruction, alors c'est le nom du dépôt GitHub cloné qui est attribué par défaut au dossier auquel il sera lié.
+
+### Configuration du dossier :
+
 ```bash
-git config --global user.name "votrePseudoGitHub" # enlever le global si configuration pour ce dossier uniquement
-git config --global user.email "prenom.nom@eleves.ecmorlaix.fr" # enlever le global si configuration pour ce dossier uniquement
+git config --global user.name "votrePseudoGitHub" # pour limiter la configuration à ce dossier uniquement, enlever le --global
+git config --global user.email "prenom.nom@eleves.ecmorlaix.fr" # pour limiter la configuration à ce dossier uniquement, enlever le --global
 git config --list # vérifier la configuration du dossier
 ```
+
+## Récupérer les données actualisées du dépôt GitHub vers votre dossier clone = "Tirer"
 ```bash
 git pull
 ```
 
+## Vérifier l'état de votre copie de travail :
 ```bash
 git status
-git add *
-git commit -m "premier commit"
-git push -u origin main
+```
+
+## Visualiser tous les changements réalisés à ce stade :
+```bash
+git diff
+```
+> Les suppresions apparaissent en rouge précédées d'un signe **`-`**, et les ajouts apparaissent en vert prédédés d'un signe **`+`**.
+
+> Utiliser avec la commande `git diff nomDuFichier` pour ne voir que les modifications effectuées sur un fichier 
+
+## Ajouter les changements à mettre à jour à ce stade
+```bash
+git add nom_du_fichier
+```
+> La commande `git add *` permet d'ajouter tous les fichiers modifiés en une fois.
+> 
+> La commande `git add dossier/`permet d'ajouter un dossier et tout sont contenu.
+>
+> La commande `git reset HEAD -- nomDuFichier` permet d'enlever un fichier ajouté par erreur.
+>
+> La commande `git checkout nomDuFichier` permet d'annuler les modifications faites sur un fichier depuis l'état précédent.
+
+## Valider et consigner vos modifications = "Commiter"
+```bash
+git commit -m "message du commit"
+```
+> La commande `git commit -a -m "mon message"` permet de directement valider et consigner les modifications qui concernent tous les fichiers déjà suivis sans avoir à passer préalablement par une commande `add`.
+> 
+> La commande `git commit` sans argument ouvre l'éditeur définit par défaut pour permettre d'écrire le message de `commit`...
+
+## Mettre à jour votre dépôt GitHub avec votre copie de travail = "Pousser" :
+
+```bash
+git push origin main
 ```
 
 Voir aussi :
