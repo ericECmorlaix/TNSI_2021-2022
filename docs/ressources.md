@@ -2,6 +2,8 @@
 - [Blog](https://ecmorlaix-my.sharepoint.com/personal/eric_madec_ecmorlaix_fr/1NSI_2020-2021/default.aspx){:target="_blank"}
 - [Github](https://nbviewer.jupyter.org/github/ericECmorlaix/1NSI_2020-2021/tree/master/){:target="_blank"} 
 
+# [Note pour gérer vos dépots GitHub](../git) :
+
 
 # mkdocs_tutor :
 
