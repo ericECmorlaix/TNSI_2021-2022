@@ -25,7 +25,7 @@ Créer un compte sur GitHub (Sign up) depuis un navigateur à l'adresse [https:/
 
 <img src="https://ericecmorlaix.github.io/img/GitHub00.png" alt="inscription GitHub" width=30%>
 
-A l'adresse [https://github.com/new](https://github.com/new){target="_blank"} créer un nouveau répertoire de dépot nommé comme votre dossier de travail sur le serveur ou par exemple `pNomRepo` :
+A l'adresse [https://github.com/new](https://github.com/new){target="_blank"} créer un nouveau répertoire de dépot nommé, par exemple `pNomProjet` :
 
 <img src="https://ericecmorlaix.github.io/img/GitHub01.png" alt="nouveau repo GitHub" width=50%>
 
