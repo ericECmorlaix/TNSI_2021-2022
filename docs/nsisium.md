@@ -56,3 +56,57 @@ Ce projet sera donc aussi l'occasion de découvrir et d'expérimenter les rudime
 </center>
 
 Le développement du projet va donc se décomposer en plusieurs sprints...
+
+
+## Un peu d'aide et quelques conseils :
+
+### Mise en réseau par wifi :
+
+- Créer un réseau LAN avec un routeur Wifi.
+
+- Installer un dongle Wifi sur le port USB-A de la brique Lego EV3.
+
+- Après démarrage du système, configurer le réseau WiFi depuis le menu de la brique...
+
+> Si la connexion Wifi est valide, l'adresse IP du robot s'affiche sur l'écran (en haut)
+
+- Pour tester le bon fonctionnement du robot, on peut se connecter via SSH. Les identifiants sont :
+  * utilisateur : robot
+  * mot de passe : maker
+```
+$ ssh robot@192.168.1.101
+```
+
+- Pour lancer un script micropython depuis la console du robot par SSH : 
+```
+$ brickrun pybricks-micropython /home/robot/hello.py
+```
+
+### Modularité :
+
+Développer petit à petit de façon modulaire, par fonctionnalité...
+
+```python
+#!/usr/bin/env pybricks-micropython
+
+# Dépendances
+from machin import bidule, truc
+
+# Définitions
+    
+bar = 'titi'
+
+def foo() :
+    '''
+        Docstring de foo()
+    '''
+    pass
+
+# Tests
+if __name__ == '__main__': 
+    # appel à la fonction foo() pour un test
+    foo()
+    # affichage en console d'une variable
+    print(bar)
+```
+
