@@ -1,5 +1,10 @@
 # Cahier de texte TNSI_2021-2022
 
+## Les 22 et 23/09 :
+- Présentation à l'oral des notebook personnels de révisions de programmation en Python et de l'environnement de travail propre à chacun...
+- Présentation d'une [Note pour gérer des dépots GitHub](./git) et d'un workflow s'appuyant sur Visual Studio Code ;
+- [Notion de paradigme de programmation](./Notion_de_Paradigmes-Introduction) -> activités de révision associées **à remettre pour le 28/09**  ;
+
 ## Les 17 et 21/09 :
 - mini-projet [nsisium](./nsisium) : fin du sprint 1, livraison d'un robot équipé d'un capteur de nsisium et pilotable à distance sans fil ;
 
