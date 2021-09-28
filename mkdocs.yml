@@ -24,8 +24,10 @@ nav:
       - LaTeX : LaTeX-Le_BN_pour_formuler.ipynb
       - Calcul : Arithmetique-Le_BN_pour_calculer.ipynb
     - Histoire de l’informatique : histoire.md
-    - France-IOI :
-      - Cours et problèmes : FranceIOI.md
+    - Langages et Programmation :
+      - France-IOI Cours et problèmes : FranceIOI.md
+      - Notion_de_Paradigmes : Notion_de_Paradigmes-Introduction.ipynb
+      - Recommandations de programmation : Recommandations-Proposition_Exercice_Notes.ipynb
     - Projets :
       - nsisium : nsisium.md
     - Ressources : ressources.md

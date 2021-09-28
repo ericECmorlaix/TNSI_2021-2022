@@ -1,5 +1,11 @@
 # Cahier de texte TNSI_2021-2022
 
+## Le 29/09 :
+- Présentations de propositions pour l'exercice : Série de notes
+
+## Le 28/09 :
+- mini-projet [nsisium](./nsisium) : finalisation pour une présentation à la Fête de la Science à la Manu ;
+
 ## Les 22 et 23/09 :
 - Présentation à l'oral des notebook personnels de révisions de programmation en Python et de l'environnement de travail propre à chacun...
 - Présentation d'une [Note pour gérer des dépots GitHub](./git) et d'un workflow s'appuyant sur Visual Studio Code ;
