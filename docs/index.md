@@ -1,7 +1,9 @@
 # Cahier de texte TNSI_2021-2022
 
 ## Le 29/09 :
-- Présentations de propositions pour l'exercice : Série de notes
+- [Exercice : Série de notes](./Notion_de_Paradigmes-Introduction) :
+  - Présentations de propositions des élèves ;
+  - [Recommandations et proposition d'une trame solution](./Recommandations-Proposition_Exercice_Notes) à **expérimenter** et **compléter** ;
 
 ## Le 28/09 :
 - mini-projet [nsisium](./nsisium) : finalisation pour une présentation à la Fête de la Science à la Manu ;
