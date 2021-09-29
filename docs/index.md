@@ -1,12 +1,12 @@
 # Cahier de texte TNSI_2021-2022
 
-## Le 29/09 :
+## Les 29 et 30/09 :
 - [Exercice : Série de notes](./Notion_de_Paradigmes-Introduction/#exercice-serie-de-notes) :
     - Présentations de propositions des élèves ;
     - [Recommandations et proposition d'une trame solution](./Recommandations-Proposition_Exercice_Notes) à **expérimenter** et **compléter** ;
 
-## Le 28/09 :
-- mini-projet [nsisium](./nsisium) : finalisation pour une présentation à la Fête de la Science à la Manu ;
+## Les 24 et 28/09 :
+- mini-projet [nsisium](./nsisium) : finalisation pour une présentation à la Fête de la Science le dimanche 03/10 à la Manu ;
 
 ## Les 22 et 23/09 :
 - Présentation à l'oral des notebook personnels de révisions de programmation en Python et de l'environnement de travail propre à chacun...
