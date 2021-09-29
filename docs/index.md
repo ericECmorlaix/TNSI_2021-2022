@@ -2,8 +2,8 @@
 
 ## Le 29/09 :
 - [Exercice : Série de notes](./Notion_de_Paradigmes-Introduction) :
-  - Présentations de propositions des élèves ;
-  - [Recommandations et proposition d'une trame solution](./Recommandations-Proposition_Exercice_Notes) à **expérimenter** et **compléter** ;
+    - Présentations de propositions des élèves ;
+    - [Recommandations et proposition d'une trame solution](./Recommandations-Proposition_Exercice_Notes) à **expérimenter** et **compléter** ;
 
 ## Le 28/09 :
 - mini-projet [nsisium](./nsisium) : finalisation pour une présentation à la Fête de la Science à la Manu ;
