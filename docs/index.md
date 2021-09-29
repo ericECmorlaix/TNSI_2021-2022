@@ -1,7 +1,7 @@
 # Cahier de texte TNSI_2021-2022
 
 ## Le 29/09 :
-- [Exercice : Série de notes](./Notion_de_Paradigmes-Introduction) :
+- [Exercice : Série de notes](./Notion_de_Paradigmes-Introduction/#exercice-serie-de-notes) :
     - Présentations de propositions des élèves ;
     - [Recommandations et proposition d'une trame solution](./Recommandations-Proposition_Exercice_Notes) à **expérimenter** et **compléter** ;
 
