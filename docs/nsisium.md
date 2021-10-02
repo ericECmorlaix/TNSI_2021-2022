@@ -16,7 +16,7 @@ L'accès des grottes peut être limité à une largeur de 250 mm et une hauteur 
 Il faut prévoir une surveillance de l'autonomie énergétique du robot afin d'assurer sa récupération...
 
 
-## Ressources
+## Ressources :
 
 Le robot utilisé sera un EV3 de chez LEGO équipé d'un système d'exploitation Linux (EV3 MicroPython version v2.0).
 
@@ -28,7 +28,7 @@ Le robot utilisera également un capteur ultrason. Ce dernier permettra de mesur
 
 Pour le positionnement, plusieurs capteurs pourront être utilisés dont le capteur gyroscopique et le capteur tachymétrique intégré aux moteurs.
 
-Plus d’informations ici : [https://pybricks.github.io/ev3-micropython/](https://pybricks.github.io/ev3-micropython/)
+Plus d’informations dans la documentation [pybricks ev3-micropython/](https://pybricks.github.io/ev3-micropython/)
 
 
 ## Démarche :
@@ -109,4 +109,13 @@ if __name__ == '__main__':
     # affichage en console d'une variable
     print(bar)
 ```
+## Autres ressources :
+
+- Le module Pybricks MicroPython pour EV3 est basé sur [ev3dev](https://www.ev3dev.org/news/2019/04/13/ev3-micropython/) ;
+- [Tutoriel EV3 Python par Raphael Holzer](https://ev3-tutorial.readthedocs.io/en/latest/index.html) ;
+
+- [https://sites.google.com/site/ev3devpython/](https://sites.google.com/site/ev3devpython/) ;
+
+- [Instructions de construction de différents modèles](https://education.lego.com/en-us/product-resources/mindstorms-ev3/downloads/building-instructions#building-core)
+
 
