@@ -82,6 +82,16 @@ $ ssh robot@192.168.1.101
 $ brickrun pybricks-micropython /home/robot/hello.py
 ```
 
+- Pour lancer un interpréteur depuis la console du robot par SSH afin d'exécuter une des fonctions de votre programme :
+```
+$ cd monProjet # aller dans le dossier du projet
+$ brickrun pybricks-micropython # démarrer l'interpréteur Pybricks MicroPython
+Pybricks MicroPython v1.11 on 2020-05-06; linux version
+Use Ctrl-D to exit, Ctrl-E for paste mode
+>>> from monProgramme import *
+>>> maFonction()
+```
+
 ### Modularité :
 
 Développer petit à petit de façon modulaire, par fonctionnalité...
