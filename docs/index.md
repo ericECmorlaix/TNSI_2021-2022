@@ -1,8 +1,14 @@
 # Cahier de texte TNSI_2021-2022
 
+## Le 07/10 : 
+
+- Propositions de correction pour l'exercice [Série de notes](./Proposition_Exercice_Notes_Trame_Complet.ipynb) en programmation impérative et procédurale ;
+- Introduction à la [Programmation Orientée Objet](./POO-IntroductionProgrammationOrienteeObjet) ;​​
+
+
 ## Le 06/10 : 
 
-- Finaliser et transmettre les travaux demandés en programmation impérative et procédurale : Série de note, Code ISBN ;
+- Finaliser et transmettre les travaux demandés en programmation impérative et procédurale : Série de notes, Code ISBN ;
 - Introduction à la [Programmation Orientée Objet](./POO-IntroductionProgrammationOrienteeObjet) ;​​
 
 ## Le 05/10 :
