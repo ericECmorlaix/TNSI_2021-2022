@@ -1,10 +1,11 @@
 # Cahier de texte TNSI_2021-2022
 
-## Le 07/10 : 
+## Les 07 et 08/10 : 
 
 - Propositions de correction pour l'exercice [Série de notes](./Proposition_Exercice_Notes_Trame_Complet.ipynb) en programmation impérative et procédurale ;
-- Introduction à la [Programmation Orientée Objet](./POO-IntroductionProgrammationOrienteeObjet) ;​​
+> Faire le travail de modularisation démandé...
 
+- Finir les activités d'introduction à la [Programmation Orientée Objet](./POO-IntroductionProgrammationOrienteeObjet) et transmettre ce notebook par mail ;​​
 
 ## Le 06/10 : 
 

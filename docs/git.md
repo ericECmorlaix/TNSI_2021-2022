@@ -44,6 +44,8 @@ La suite présente le recours à l'interface graphique de Visual Studio Code et 
 
 - Télécharger et installer la dernière version de [Visual Studio Code](https://code.visualstudio.com/download) ;
 
+- Télécharger et installer la dernière version de [Git for Windows](https://gitforwindows.org/) ;
+
 - Dans Visual Studio Code (VSC), cliquer sur le bouton "Contrôle de code source" (1) (`Source Control` ++"Ctrl"+"Maj"+"G"++) ;
 
 ![VisualStudioCode.png](images/VisualStudioCodeGit00.png)
