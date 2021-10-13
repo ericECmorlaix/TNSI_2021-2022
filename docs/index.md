@@ -4,6 +4,7 @@
 
 - Synthèse de la [Programmation Orientée Objet](./POO-SyntheseProgrammationOrienteeObjet) ; 
 - Structure Linéaire de Données : [Liste](./Structure_Lineaire-Liste.ipynb) ;
+- 
 **-> Se préparer pour une évaluation en POO le 15/10.**
 
 
