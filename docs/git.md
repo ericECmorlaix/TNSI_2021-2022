@@ -54,8 +54,23 @@ La suite présente le recours à l'interface graphique de Visual Studio Code et 
 - Choisir alors un dossier parent pour recevoir un clone local de votre dépôt distant ;
 - apporter des modifications à vos fichiers en utilisant l'éditeur de VSC... ;
 - Dans "Changement" (`Changes`) cliquer sur le `+` pour ajouter les fichiers modifiés à indexer dans cette phase (stage) de développement ;
+
+??? caution "La première fois, il faut configurer git en ligne de commande dans un terminal :"
+    
+    > pour limiter la configuration à ce dossier uniquement, enlever le `--global`
+    
+    ```bash
+    git config --global user.name "votrePseudoGitHub"
+    ```
+    
+    ```bash
+    git config --global user.email "prenom.nom@eleves.ecmorlaix.fr"
+    ```
+
 - Ajouter un message sous "CONTROLE DE CODE SOURCE" (`SOURCE CONTROL`) pour définir cette phase de développement puis cliquer sur `✓` pour valider ce commit ;
 - Enfin, cliquer sur les `...` et choisir `Push` ;
+
+!!! caution "La première fois, il faut vous authentifier sur GitHub, choisir de le faire par une connexion via votre navigateur..."
 
 Votre dépôt sur GitHub devrait se mettre à jour avec vos modifications après quelques temps...
 
@@ -85,7 +100,11 @@ Password: your_token
 
 ```bash
 git config --global user.name "votrePseudoGitHub" # pour limiter la configuration à ce dossier uniquement, enlever le --global
+```
+```bash
 git config --global user.email "prenom.nom@eleves.ecmorlaix.fr" # pour limiter la configuration à ce dossier uniquement, enlever le --global
+```
+```bash
 git config --list # vérifier la configuration du dossier
 ```
 
