@@ -1,6 +1,17 @@
 # Cahier de texte TNSI_2021-2022
 
-## les 13 et 14/10 :
+## Le 19/10 :
+
+- Structure Linéaire de Données :
+    - [Liste](./Structure_Lineaire-Liste.ipynb) ;
+    - [Pile](./Structure_Lineaire-Pile.ipynb) ;
+    - [File](./Structure_Lineaire-File.ipynb) ;
+
+## Le 15/10 :
+
+- Evaluation en POO ;
+
+## Les 13 et 14/10 :
 
 - Synthèse de la [Programmation Orientée Objet](./POO-SyntheseProgrammationOrienteeObjet) ; 
 > **-> Se préparer pour une évaluation en POO le 15/10.**
