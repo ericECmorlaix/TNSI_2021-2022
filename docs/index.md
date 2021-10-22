@@ -1,5 +1,7 @@
 # Cahier de texte TNSI_2021-2022
 
+[mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
+
 ## Le 22/10 :
 
 - **Finir** les activités des notebooks [Liste](./Structure_Lineaire-Liste.ipynb), [Pile](./Structure_Lineaire-Pile.ipynb) et [File](./Structure_Lineaire-File.ipynb) ;
