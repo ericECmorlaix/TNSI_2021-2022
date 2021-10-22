@@ -1,5 +1,17 @@
 # Cahier de texte TNSI_2021-2022
 
+## Le 22/10 :
+
+- **Finir** les activités des notebooks [Liste](./Structure_Lineaire-Liste.ipynb), [Pile](./Structure_Lineaire-Pile.ipynb) et [File](./Structure_Lineaire-File.ipynb) ;
+
+- **Faire** les devoirs maison [DM_Liste](./DM_Liste.pdf){:target="_blank"} et [DM_Pile_File.pdf](./DM_Pile_File.pdf){:target="_blank"} ;
+
+> ==**Ces travaux sont à finaliser durant les vacances de la Toussaint ainsi que le 10/11 en autonomie pour les transmettre par [mail] avant le 15/11**==
+
+- Pour vous détendre durant les vacances, évoluer de la programmation Scratch vers Python grace à l'application [PYRATES](https://py-rates.fr/){target="_blank"} : ==*-> me transmettre par [mail] votre code personnel ainsi que le temps et le nombre d'essais qu'il vous faut pour passer chaque niveau...*== ;
+
+***
+
 ## Le 19/10 :
 
 - Structure Linéaire de Données :
