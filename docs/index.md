@@ -2,6 +2,13 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+### Le 16/11 :
+
+- **Découvrir** la [programmation récursive](./Recursif) ;
+
+- **Créer, déployer et maintenir** son [classeur de NSI sur GitHub avec MkDocs](https://ericecmorlaix.github.io/adn-Tutoriel_site_web/){target=_blank} ;
+
+***
 ## Le 22/10 :
 
 - **Finir** les activités des notebooks [Liste](./Structure_Lineaire-Liste.ipynb), [Pile](./Structure_Lineaire-Pile.ipynb) et [File](./Structure_Lineaire-File.ipynb) ;
