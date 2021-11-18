@@ -2,7 +2,15 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
-### Le 16/11 :
+## Le 18/11 :
+
+- **Finir** la [programmation récursive](./Recursif) ;
+
+- **Analyser** la proposition de correction du notebook [Liste](./Structure_Lineaire-Liste-Complet) ;
+
+- **Lire** la [proposition de correction](./Corrections-Evaluation_POO-DM_Liste) de l'évaluation de POO et **Compléter** celle du DM sur les listes chainées ;
+
+## Les 16 et 17/11 :
 
 - **Découvrir** la [programmation récursive](./Recursif) ;
 
