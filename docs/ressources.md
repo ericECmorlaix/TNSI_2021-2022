@@ -5,9 +5,15 @@
 # [Note pour gérer vos dépots GitHub](../git) :
 
 
+
+
+
+
+
+
 # mkdocs_tutor :
 
-Tutoriel pour déployer un site web avec Material pour MkDocs sur PC, iPad, et GitHub.
+Premier tutoriel pour déployer un site web avec Material pour MkDocs sur PC, iPad, et GitHub.
 
 Ce tutoriel est publié à l'adresse : [https://ericecmorlaix.github.io/mkdocs_tutor/](https://ericecmorlaix.github.io/mkdocs_tutor/){:target="_blank"}
 

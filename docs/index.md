@@ -2,6 +2,14 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+
+## Le 23/11 :
+
+- **Lire** la [correction](./Correction-DM_Pile_File.pdf) du DM sur les Piles et Files ;
+- Synthèse [programmation récursive](https://glassus.github.io/terminale_nsi/T2_Programmation/2.2_Recursivite/cours/){target=_blank} et [structure linéaire Liste, Pile et File](https://glassus.github.io/terminale_nsi/T1_Structures_de_donnees/1.1_Listes_Piles_Files/cours/){target=_blank} ;
+- Reprise en main d'[ipycanvas](./ipycanvas-Le_BN_pour_dessiner) ;
+
+***
 ## Le 18/11 :
 
 - **Finir** la [programmation récursive](./Recursif) ;
@@ -10,6 +18,7 @@
 
 - **Lire** la [proposition de correction](./Corrections-Evaluation_POO-DM_Liste) de l'évaluation de POO et **Compléter** celle du DM sur les listes chainées ;
 
+***
 ## Les 16 et 17/11 :
 
 - **Découvrir** la [programmation récursive](./Recursif) ;
