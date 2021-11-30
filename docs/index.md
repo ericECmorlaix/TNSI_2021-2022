@@ -4,7 +4,7 @@
 
 ## Le 30/11 :
 
-- Poursuivre les activités d'[ipycanvas](./ipycanvas-Le_BN_pour_dessiner) ;
+- **Poursuivre** les activités d'[ipycanvas](./ipycanvas-Le_BN_pour_dessiner) ;
 - **Créer, déployer et maintenir** son [classeur de NSI sur GitHub avec MkDocs](https://ericecmorlaix.github.io/adn-Tutoriel_site_web/){target=_blank} ; 
 
 ***
