@@ -2,7 +2,12 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+## Le 30/11 :
 
+- Poursuivre les activités d'[ipycanvas](./ipycanvas-Le_BN_pour_dessiner) ;
+- **Créer, déployer et maintenir** son [classeur de NSI sur GitHub avec MkDocs](https://ericecmorlaix.github.io/adn-Tutoriel_site_web/){target=_blank} ; 
+
+***
 ## Le 23/11 :
 
 - **Lire** la [correction](./Correction-DM_Pile_File.pdf) du DM sur les Piles et Files ;
