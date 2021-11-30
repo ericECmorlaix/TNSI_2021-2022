@@ -7,6 +7,16 @@
 - **Poursuivre** les activités d'[ipycanvas](./ipycanvas-Le_BN_pour_dessiner) ;
 - **Créer, déployer et maintenir** son [classeur de NSI sur GitHub avec MkDocs](https://ericecmorlaix.github.io/adn-Tutoriel_site_web/){target=_blank} ; 
 
+## Le 25/11 :
+
+- Evaluation pratique appliquées aux tours de Hanoï partie A ;
+
+## Le 24/11 :
+
+- Evaluation écrite de programmation récursive ;
+- Evaluation écrite de structures linéaires Pile et File appliquées aux tours de Hanoï ;
+- Evaluation pratique : une tortue récursive ;
+
 ***
 ## Le 23/11 :
 
