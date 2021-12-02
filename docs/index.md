@@ -2,10 +2,14 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
-## Le 30/11 :
+
+
+## Du 30/11 au 03/12 :
 
 - **Poursuivre** les activités d'[ipycanvas](./ipycanvas-Le_BN_pour_dessiner) ;
-- **Créer, déployer et maintenir** son [classeur de NSI sur GitHub avec MkDocs](https://ericecmorlaix.github.io/adn-Tutoriel_site_web/){target=_blank} ; 
+- **Créer, déployer et maintenir** son [classeur de NSI sur GitHub avec MkDocs](https://ericecmorlaix.github.io/adn-Tutoriel_site_web/){target=_blank} ;
+- **Lire** la proposition de correction pour [l'évaluation écrite de programmation récursive](./Recursif_Test_papier_correction.pdf){target=_blank} ;
+- **Lire** et **compléter** la proposition de correction pour [l'évaluation pratique : une tortue récursive](./Une_tortue_recursive-Correction_et_Plus){target=_blank} ;
 
 ## Le 25/11 :
 
