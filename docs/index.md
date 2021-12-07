@@ -2,7 +2,11 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+## Le 07/12
 
+- **Finir de compléter** la proposition de correction pour [l'évaluation pratique : une tortue récursive](./Une_tortue_recursive-Correction_et_Plus){target=_blank} ;
+
+- **Commencer** les activités de [Fractals_trees_avec_ipycanvas](./Fractals_trees_avec_ipycanvas)
 
 ## Du 30/11 au 03/12 :
 
