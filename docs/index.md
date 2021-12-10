@@ -6,9 +6,11 @@
 
 - **Finir de compléter** la proposition de correction pour [l'évaluation pratique : une tortue récursive](./Une_tortue_recursive-Correction_et_Plus){target=_blank} ;
 
-- **Faire** les activités de [Fractals_trees_avec_ipycanvas](./Fractals_trees_avec_ipycanvas)
+- **Faire** les activités de [Fractals_trees_avec_ipycanvas](./Fractals_trees_avec_ipycanvas) ;
 
-- **Faire** les activités de [Let_it_snow](./Let_it_snow) 
+- **Faire** les activités de [Let_it_snow](./Let_it_snow) ;
+
+- **Faire** les activités de [L-Systeme](./L-Systeme) ;
 
 ## Du 30/11 au 03/12 :
 
