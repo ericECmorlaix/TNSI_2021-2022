@@ -2,6 +2,19 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+***
+## Du 14 au 17/12
+
+- **Regarder** la vidéo et **répondre** aux questions de cette [introduction aux BDR](http://colbert.bzh/sql/tp.html?html=intro){target=_blank} ;
+- **S'inscrire** sur la Khan Academy et **rejoindre** [la classe TNSI_2021-2022](https://fr.khanacademy.org/join/R6NU532C​){target=_blank} pour faire les activités d'initiation à la programmation en langage [SQL](https://fr.khanacademy.org/computing/computer-programming/sql){target=_blank} ;
+- **Faire** les activités ​du notebook [SQL-Structured_Query_Language](./SQL-Structured_Query_Language) ;
+- **Lire** le notebook [BDR-Bases_de_Donnees_Relationnelles](./BDR-Bases_de_Donnees_Relationnelles) ;
+- **Regarder** les vidéos :
+    - [Qu'est ce qu'une base de donnees relationnelle ?](https://www.lumni.fr/video/qu-est-ce-qu-une-base-de-donnees-relationnelle){target=_blank} ;
+    - [Interrogation d'une base de donnees relationnelle](https://www.lumni.fr/video/interrogation-d-une-base-de-donnees-relationnelle){target=_blank} ;
+- **Faire** [SQL-Exercice_Bibliotheque](./SQL-Exercice_Bibliotheque.pdf) ;
+
+***
 ## Les 07, 08 et 09/12
 
 - **Finir de compléter** la proposition de correction pour [l'évaluation pratique : une tortue récursive](./Une_tortue_recursive-Correction_et_Plus){target=_blank} ;
