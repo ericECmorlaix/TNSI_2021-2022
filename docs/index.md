@@ -6,7 +6,7 @@
 ## Du 14 au 17/12
 
 - **Regarder** la vidéo et **répondre** aux questions de cette [introduction aux BDR](http://colbert.bzh/sql/tp.html?html=intro){target=_blank} ;
-- **S'inscrire** sur la Khan Academy et **rejoindre** [la classe TNSI_2021-2022](https://fr.khanacademy.org/join/R6NU532C​){target=_blank} pour faire les activités d'initiation à la programmation en langage [SQL](https://fr.khanacademy.org/computing/computer-programming/sql){target=_blank} ;
+- **S'inscrire** sur la Khan Academy et **rejoindre** [la classe TNSI_2021-2022 code R6NU532C](https://fr.khanacademy.org/join/R6NU532C​){target=_blank} pour faire les activités d'initiation à la programmation en langage [SQL](https://fr.khanacademy.org/computing/computer-programming/sql){target=_blank} ;
 - **Faire** les activités ​du notebook [SQL-Structured_Query_Language](./SQL-Structured_Query_Language) ;
 - **Lire** le notebook [BDR-Bases_de_Donnees_Relationnelles](./BDR-Bases_de_Donnees_Relationnelles) ;
 - **Regarder** les vidéos :
