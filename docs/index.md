@@ -13,6 +13,9 @@
     - [Qu'est ce qu'une base de donnees relationnelle ?](https://www.lumni.fr/video/qu-est-ce-qu-une-base-de-donnees-relationnelle){target=_blank} ;
     - [Interrogation d'une base de donnees relationnelle](https://www.lumni.fr/video/interrogation-d-une-base-de-donnees-relationnelle){target=_blank} ;
 - **Faire** [SQL-Exercice_Bibliotheque](./SQL-Exercice_Bibliotheque.pdf) ;
+- **S'entrainer** encore sur les sites :
+    - [https://fxjollois.github.io/cours-sql/](https://fxjollois.github.io/cours-sql/){target=_blank} ;
+    - [https://sqlzoo.net/wiki/SQL_Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial){target=_blank} ;
 
 ***
 ## Les 07, 08 et 09/12
