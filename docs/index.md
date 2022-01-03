@@ -3,6 +3,14 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Le 04/01
+
+- **Restituer** l'ensemble des travaux engagés ;
+
+- **Faire** les activités ​du notebook [SoC_Processus](./SoC_Processus) ;
+- **Faire** les activités ​du notebook [ProtocolesDeRoutage](./ProtocolesDeRoutage) ;
+
+***
 ## Du 14 au 17/12
 
 - **Regarder** la vidéo et **répondre** aux questions de cette [introduction aux BDR](http://colbert.bzh/sql/tp.html?html=intro){target=_blank} ;
