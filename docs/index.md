@@ -3,7 +3,13 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
-## Le 04/01
+## Le 18/01
+
+- **Regarder** la vidéo [les arbres binaires de recherche](https://revoir.tv5monde.com/toutes-les-videos/culture/les-cours-lumni-lycee-cours-du-11-12-2020-3){target=_blank} ;
+
+- - **Lire** et **Faire** les activités ​du notebook [Structure_Arborescente](./Structure_Arborescente) ;
+
+## Du 04/01 au 14/01
 
 - **Restituer** l'ensemble des travaux engagés ;
 
