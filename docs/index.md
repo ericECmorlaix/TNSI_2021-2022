@@ -7,7 +7,11 @@
 
 - **Regarder** la vidéo [les arbres binaires de recherche](https://revoir.tv5monde.com/toutes-les-videos/culture/les-cours-lumni-lycee-cours-du-11-12-2020-3){target=_blank} ;
 
-- - **Lire** et **Faire** les activités ​du notebook [Structure_Arborescente](./Structure_Arborescente) ;
+- **Lire** et **Faire** les activités ​du notebook [Structure_Arborescente](./Structure_Arborescente) ;
+
+- **Faire** les [exercices sur les arbres](./ExercicesArbres.pdf){target=_blank} ;
+
+- **Faire** les [exercices sur le routage](./ExercicesRoutage.pdf){target=_blank} ;
 
 ## Du 04/01 au 14/01
 
@@ -26,7 +30,7 @@
 - **Regarder** les vidéos :
     - [Qu'est ce qu'une base de donnees relationnelle ?](https://www.lumni.fr/video/qu-est-ce-qu-une-base-de-donnees-relationnelle){target=_blank} ;
     - [Interrogation d'une base de donnees relationnelle](https://www.lumni.fr/video/interrogation-d-une-base-de-donnees-relationnelle){target=_blank} ;
-- **Faire** [SQL-Exercice_Bibliotheque](./SQL-Exercice_Bibliotheque.pdf) ;
+- **Faire** [SQL-Exercice_Bibliotheque](./SQL-Exercice_Bibliotheque.pdf){target=_blank} ;
 - **S'entrainer** encore sur les sites :
     - [https://fxjollois.github.io/cours-sql/](https://fxjollois.github.io/cours-sql/){target=_blank} ;
     - [https://sqlzoo.net/wiki/SQL_Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial){target=_blank} ;
