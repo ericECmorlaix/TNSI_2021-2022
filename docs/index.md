@@ -3,7 +3,7 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
-## Le 18/01
+## Du 18 au 21/01
 
 - **Regarder** la vidéo [les arbres binaires de recherche](https://revoir.tv5monde.com/toutes-les-videos/culture/les-cours-lumni-lycee-cours-du-11-12-2020-3){target=_blank} ;
 
@@ -12,6 +12,8 @@
 - **Faire** les [exercices sur les arbres](./ExercicesArbres.pdf){target=_blank} ;
 
 - **Faire** les [exercices sur le routage](./ExercicesRoutage.pdf){target=_blank} ;
+
+- **Faire** les exercices 3, 4 et 5, du [sujet 0](./sujet_0_Terminales.pdf){target=_blank} ;
 
 ## Du 04/01 au 14/01
 
