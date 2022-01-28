@@ -3,6 +3,22 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Le 28/01
+
+- Orientation : le site des [PREPAS MP2I](https://prepas-mp2i.github.io/){target=_blank} ;
+
+- Info du jour : [Bac 2022 : les épreuves de spécialité décalées à mi-mai, Parcoursup prendra en compte les moyennes](https://www.leparisien.fr/etudiant/examens/bac/bac-2022-les-epreuves-de-specialites-decalees-au-11-12-et-13-mai-SLNWAZD26VDA5J2XGO2IGQQSXE.php){target=_blank} ;
+
+- Révisions : [Epreuve Pratique](./epreuve_pratique) ;
+
+## Le 27/01
+
+- [Bac Blanc](./bac-blanc-2022.pdf) ;
+
+## Le 26/01
+
+- Correction des exercices 3, 4 et 5, du [sujet 0](./sujet_0_Terminales.pdf){target=_blank} ;
+
 ## Du 18 au 21/01
 
 - **Regarder** la vidéo [les arbres binaires de recherche](https://revoir.tv5monde.com/toutes-les-videos/culture/les-cours-lumni-lycee-cours-du-11-12-2020-3){target=_blank} ;
