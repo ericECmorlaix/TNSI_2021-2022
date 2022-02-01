@@ -32,7 +32,8 @@ La banque d'exercices est publique et peut être téléchargée en un pdf unique
 
 ## Pour s'entrainer
 
-- [le site de Gilles LASSUS](https://glassus.github.io/terminale_nsi/T6_6_Epreuve_pratique/cours/){target=_blank} == Ne regarder la correction proposée qu'après avoir testé au moins une solution personnelle == ;
+- [le site de Gilles LASSUS](https://glassus.github.io/terminale_nsi/T6_6_Epreuve_pratique/BNS_2022/){target=_blank} ==Ne regarder la correction proposée qu'après avoir testé au moins une solution personnelle== ;
 
 - [le site de Franck CHAMBON](https://ens-fr.gitlab.io/nsi-pratique/){target=_blank} ;
 
+- [le site de Fabrice NATIVEL](https://fabricenativel.github.io/NSITerminale/Annales/2022/EP/){target=_blank} ;
