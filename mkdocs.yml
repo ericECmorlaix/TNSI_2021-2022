@@ -87,7 +87,8 @@ markdown_extensions: # https://squidfunk.github.io/mkdocs-material/reference/abb
     - pymdownx.tasklist:            # Cases à cocher  - [ ]  et - [x]
         custom_checkbox:    false   #   avec cases d'origine
         clickable_checkbox: true    #   et cliquables.
-    - pymdownx.tabbed               # Volets glissants.  === "Mon volet"
+    - pymdownx.tabbed:              # Onglets coulissants.  === "Onglet"
+        alternate_style: true       # Ajout depuis la version 8
     - pymdownx.superfences          # Imbrication de blocs.
     - pymdownx.keys:                # Touches du clavier.  ++ctrl+d++
         separator: "\uff0b"
@@ -96,6 +97,7 @@ markdown_extensions: # https://squidfunk.github.io/mkdocs-material/reference/abb
         emoji_generator: !!python/name:materialx.emoji.to_svg
     - pymdownx.arithmatex:  # Formules en LaTeX 
         generic: true
+        smart_dollar: false
     
   
 
