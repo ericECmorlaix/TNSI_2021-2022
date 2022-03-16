@@ -8,7 +8,8 @@
 - Les graphes :
     - regarder la vidéo suivante :
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YYv2R1cCTa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    - lire le [cours](https://dav74.github.io/site_nsi_term/c9c/){target=_blank} et faire les [activités](https://dav74.github.io/site_nsi_term/c9a/) proposés par David ROCHE ;
+
+    - lire le [cours](https://dav74.github.io/site_nsi_term/c9c/){target=_blank} et faire les [activités](https://dav74.github.io/site_nsi_term/c9a/){target=_blank} proposés par David ROCHE ;
     - faire les activités du notebook [Graphes_avec_networkx](./Graphes_avec_networkx) ;
 
 ## Le 28/01
