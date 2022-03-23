@@ -3,6 +3,10 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Le 24/03
+
+- faire les activités du notebook [Graphes_avec_graphviz.ipynb](./Graphes_avec_graphviz) ;
+
 ## Le 15/03
 
 - Les graphes :
