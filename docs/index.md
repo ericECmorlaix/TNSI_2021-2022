@@ -3,6 +3,11 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Le 05/04
+
+- faire les activités du notebook [Graphes_parcours_applications.ipynb](./Graphes_parcours_applications) ;
+
+
 ## Le 30/03
 
 - lire le [cours](https://dav74.github.io/site_nsi_term/c10c/){target=_blank} et faire les [activités](https://dav74.github.io/site_nsi_term/c10a/){target=_blank} puis les [exercices](https://dav74.github.io/site_nsi_term/c10e/){target=_blank} proposés par David ROCHE ;
