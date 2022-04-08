@@ -3,6 +3,11 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Pour le 25/04
+
+- faire les exercices de révisions [1, 2, 3](./Revisions_bac_123.pdf){target=_blank} et [4, 5, 6](./Revisions_bac_456.pdf){target=_blank}
+
+
 ## Le 05/04
 
 - faire les activités du notebook [Graphes_parcours_applications.ipynb](./Graphes_parcours_applications) ;
