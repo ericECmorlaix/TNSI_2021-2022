@@ -3,6 +3,10 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Préparation Grand Oral et épreuve pratique...
+
+- Nouveau site d'entrainement à l'EP : [https://e-nsi.gitlab.io/pratique/](https://e-nsi.gitlab.io/pratique/){target=_blank}
+
 ## Pour le 25/04
 
 - faire les exercices de révisions [1, 2, 3](./Revisions_bac_123.pdf){target=_blank} et [4, 5, 6](./Revisions_bac_456.pdf){target=_blank}
